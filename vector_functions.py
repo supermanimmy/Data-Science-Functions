@@ -94,4 +94,9 @@ assert magnitude([3, 4]) == 5 #3*3 + 4*4 = 25 , sqrt=5
 
 
 
+def distance(v: Vector, w: Vector) -> float:
+    """Computes the distance between v and w"""
+    return magnitude(subtract(v, w))
+    
+
 
