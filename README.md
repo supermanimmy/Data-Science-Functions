@@ -7,5 +7,6 @@ Topics covered:
 * Statistics
   * Central Tendencies
   * Dispersion
+  * Correlation
 
 
