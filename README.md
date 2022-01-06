@@ -4,5 +4,7 @@ Some useful functions for Data Science.
 Topics covered:
 * Vectors
 * Matrices
+* Statistics
+  * Central Tendencies
 
 
