@@ -1,3 +1,9 @@
+"""
+Central Tendencies of data
+@date 05/01/22
+@author Imran and Joel Grus
+"""
+
 
 from typing import Counter, List
 
