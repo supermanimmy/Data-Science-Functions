@@ -6,5 +6,6 @@ Topics covered:
 * Matrices
 * Statistics
   * Central Tendencies
+  * Dispersion
 
 
