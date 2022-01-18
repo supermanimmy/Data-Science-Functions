@@ -8,5 +8,7 @@ Topics covered:
   * Central Tendencies
   * Dispersion
   * Correlation
+* Probability
+  * Conditional Probability
 
 
