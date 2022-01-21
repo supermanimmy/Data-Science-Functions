@@ -10,5 +10,6 @@ Topics covered:
   * Correlation
 * Probability
   * Conditional Probability
+* Getting Data
 
 
